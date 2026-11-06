@@ -1,2 +1,4 @@
-# bytebay
-ByteBay — tech blog
+# ByteBay
+Tech notes and experiments.
+
+
